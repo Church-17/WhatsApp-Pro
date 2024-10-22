@@ -32,7 +32,7 @@ chrome.storage.sync.get('color', function(data) {
 			--outgoing-background: var(---dark);\
 			--outgoing-background-rgb: 11,86,61;\
 			--outgoing-background-deeper: var(---darker);\
-			--outgoing-background-deeper-rgb: 18,78,58;\
+			--outgoing-background-deeper-rgb: 12,65,48;\
 			--poll-bar-fill-receiver: var(---light);\
 			--progress-primary: var(---main);\
 			--ptt-draft-button-send: var(---main);\
